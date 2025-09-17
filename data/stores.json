@@ -1,0 +1,59 @@
+[
+  {
+    "id": "store-1",
+    "name": "GreenLeaf Market",
+    "lat": 14.599512,
+    "lng": 120.984222,
+    "type": "supermarket",
+    "deals": [
+      {
+        "id": "deal-1",
+        "title": "Fresh Tomatoes (2kg)",
+        "originalPrice": 120,
+        "price": 60,
+        "discountPct": 50,
+        "expiryISO": "2025-09-18T18:00:00Z",
+        "category": "produce",
+        "note": "Best eaten same day"
+      }
+    ]
+  },
+  {
+    "id": "store-2",
+    "name": "Bakery & Co",
+    "lat": 14.604200,
+    "lng": 120.987800,
+    "type": "bakery",
+    "deals": [
+      {
+        "id": "deal-2",
+        "title": "Mixed Bread Pack",
+        "originalPrice": 200,
+        "price": 100,
+        "discountPct": 50,
+        "expiryISO": "2025-09-17T20:00:00Z",
+        "category": "bakery",
+        "note": "Baked this morning"
+      }
+    ]
+  },
+  {
+    "id": "store-3",
+    "name": "Veggies Corner",
+    "lat": 14.596800,
+    "lng": 120.978555,
+    "type": "market",
+    "deals": [
+      {
+        "id": "deal-3",
+        "title": "Leafy Greens 1kg",
+        "originalPrice": 80,
+        "price": 32,
+        "discountPct": 60,
+        "expiryISO": "2025-09-17T16:00:00Z",
+        "category": "produce",
+        "note": "Pick up before closing"
+      }
+    ]
+  }
+]
